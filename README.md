@@ -3,8 +3,8 @@
 Official ComfyUI implementation of SeedVR2 - One-Step Video Restoration via Diffusion Adversarial Post-Training.
 
 Based on code from:
-- https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler
-- https://github.com/ByteDance-Seed/SeedVR
+- [numz/ComfyUI-SeedVR2_VideoUpscaler](https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler)
+- [ByteDance-Seed/SeedVR](https://github.com/ByteDance-Seed/SeedVR)
 
 ## Key Differences from numz Version
 
